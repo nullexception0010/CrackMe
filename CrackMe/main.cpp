@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <thread>
 
 int main() {
     const std::string password = "SET2024";
