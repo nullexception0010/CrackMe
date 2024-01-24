@@ -2,13 +2,12 @@
 #include <string>
 
 int main() {
-    const std::string password = "SET2024";
-    std::string guess;
+    std::string password;
 
     std::cout << "Enter Password: ";
-    std::getline(std::cin, guess);
+    std::getline(std::cin, password);
 
-    if (password == guess) {
+    if (password == "SET2024") {
         std::cout << "Success!\n";
     }
     else {

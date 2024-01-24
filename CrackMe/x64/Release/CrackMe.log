@@ -1,6 +1,6 @@
 ﻿  main.cpp
   Generating code
   Previous IPDB and IOBJ mismatch, fall back to full compilation.
-  All 100 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 95 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   CrackMe.vcxproj -> C:\Users\jacob\OneDrive\Desktop\CrackMe\x64\Release\CrackMe.exe
